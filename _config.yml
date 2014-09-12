@@ -8,8 +8,8 @@ url: http://rthur.me
 domain: blog.rthur.me
 commentlinks: true
 twitter-username: graemearthur
-feedburnerurl: http://feeds.feedburner.com/zenorocha
-google-analytics-tracking-id: UA-4114546-2
+feedburnerurl: http://feeds.feedburner.com/graemearthur
+google-analytics-tracking-id: UA-29363864-1
 
 source:      .
 destination: ./_site
