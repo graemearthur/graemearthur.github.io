@@ -5,7 +5,7 @@ description: "It all started with github yes being part of the community there a
 language: "en"
 ---
 
-![Cover](/assets/img/posts/why-we-created-webcomponentsorg.jpg)
+![Cover](/assets/img/posts/rthurme.jpg)
 
 It all started with github yes being part of the community there and being too much of a lurker I decided I needed to create something so I started playing around with Jekeyll Hopefully I managed to eventually cook up something that  is simple, easy to update and actually has a purpose.
 <!-- more -->
