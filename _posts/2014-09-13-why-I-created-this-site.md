@@ -7,7 +7,7 @@ language: "en"
 
 ![Cover](/assets/img/posts/rthurme.jpg)
 
-It all started with github yes being part of the community there and being too much of a lurker I decided I needed to create something so I started playing around with Jekeyll Hopefully I managed to eventually cook up something that  is simple, easy to update and has a purpose.
+It all started with github yes being part of the community there and being too much of a lurker I decided I needed to create something so I started playing around with Jekeyll. Hopefully I managed to eventually cook up something that  is simple, easy to update and has a purpose.
 <!-- more -->
 
 As Time went on however I decided I needed a site where I could keep pointing back to, if it was drupal it'd be constantly being tweaked, updated and I'd try all sorts of things and yes then eventually abandon it.
