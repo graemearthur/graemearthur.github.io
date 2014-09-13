@@ -24,6 +24,6 @@ Hopefully everyone will like the idea of me sucking it up and living in public s
 ## New Site, new "CMS", new everything
 
 Drupal does some very cool stuff and I'm still working in it however I guess its time for me to play with something new in the hopes that it will keep my drupal work and other projects more organised.
-![New logo](/assets/img/posts/wcorg-logo.jpg)
+![New logo](http://turningpoint6.org/wp-content/uploads/2014/05/Thank-You.jpg)
 
 Thank you so much guys for all support you've been providing.
