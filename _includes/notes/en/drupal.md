@@ -1,1 +1,1 @@
-**Drupal** Drupal is a free software package that allows you to easily organize, manage and publish your content, with an endless variety of customization &mdash; [Website](http://drupal.org/)
+**Drupal** is a free software package that allows you to easily organize, manage and publish your content, with an endless variety of customization &mdash; [Website](http://drupal.org/)
