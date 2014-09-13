@@ -1,2 +1,2 @@
 **Elim Church Crawley** is a church that believes by being a part of the community and supporting those in the community, we will see God's love and his work transform the local area.
- &mdash; [Website](http://www.petrobras.com.br/) | [Facebook](http://www.facebook.com/petrobras) | [Wikipedia](http://en.wikipedia.org/wiki/Petrobras)
+ &mdash; [Website](http://elim-church.org.uk/) | [Facebook](http://www.facebook.com/elimchurchcrawley) | [Twitter](http://twitter.com/elimcrawley)
