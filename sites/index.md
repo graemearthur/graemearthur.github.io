@@ -9,11 +9,7 @@ Here you can find all my sites that I havn't errased from time
 
 # Development - Works in Progress!
 
-## [CV](http://cv.rthur.me/)
-* My cv not up to date
-
-## [Asda Playground](http://cv.rthur.me/asda/)
-* to wind up mark
+* WIP sites go here
 
 # ~ Archive or other Sites
 ---
@@ -35,3 +31,7 @@ able  commerce_kickstart  cv       gov         intranet  members
 blog  cp                  drupal7  index.html  kenora    puphpet
 github (add github sites to list)
 
+http://stackoverflow.com/users/2911613/graeme-arthur
+
+cv
+asda playground
