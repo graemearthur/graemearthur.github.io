@@ -9,19 +9,28 @@ Here you can find all my sites that I havn't errased from time slides/videos and
 
 # Development - Works in Progress!
 
-## [Polymer at SFHTML5](http://bit.ly/sfhtml5-polymer)
-* *When:* April, 30
-* *Where:* San Francisco, CA - USA
+## [CV](http://cv.rthur.me/)
+* My cv not up to date
 
-## [Front Trends](http://lanyrd.com/2014/fronttrends/)
-* *When:* May, 7
-* *Where:* Warsaw - Poland
-
+## [Asda Playground](http://cv.rthur.me/asda/)
+* *to wind up mark
 
 # ~ Archive or other Sites
 ---
 
-## [16º Encontro Locaweb](http://eventos.locaweb.com.br/16o-encontro-locaweb-de-profissionais-de-internet-curitiba/)
-* *When:* April, 10
-* *Where:* Curitiba, PR - Brazil
-* *Presentation:* [Como empreender em... você!](http://www.slideshare.net/zenorocha/keynote-30756562)
+## [My Jenkins Build Server](http://jenkins.rthur.me/)
+* local
+
+## [Private-ish Git Server](http://git.rthur.me/)
+* local
+
+## [Test site](http://test.rthur.me/)
+* local
+* Test Drupal install (routes from *.rthur.me)
+
+able  commerce_kickstart  cv       gov         intranet  members
+blog  cp                  drupal7  index.html  kenora    puphpet
+
+
+github (add github sites to list)
+
