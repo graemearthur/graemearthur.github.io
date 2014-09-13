@@ -13,7 +13,7 @@ Here you can find all my sites that I havn't errased from time
 * My cv not up to date
 
 ## [Asda Playground](http://cv.rthur.me/asda/)
-* *to wind up mark
+* to wind up mark
 
 # ~ Archive or other Sites
 ---
