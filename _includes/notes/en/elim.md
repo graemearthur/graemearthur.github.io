@@ -1,1 +1,1 @@
-**AlloyUI** is a JavaScript framework built on top of YUI3 that provides a simple API for building high scalable applications &mdash; [Website](http://alloyui.com/) | [Github](http://github.com/liferay/alloy-ui) | [Twitter](http://twitter.com/alloyui)
+**Elim Church Crawley** is a Church who believe's that by being a part of the community and supporting those in the community, we will see God's love and his work transform the local area. &mdash; [Website](http://elim-church.org.uk/) | [Github](https://github.com/elimchurchcrawley | [Twitter](http://twitter.com/elimcrawley)

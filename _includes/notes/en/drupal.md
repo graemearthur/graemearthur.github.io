@@ -1,1 +1,1 @@
-**Drupal** is a JavaScript framework built on top of YUI3 that provides a simple API for building high scalable applications &mdash; [Website](http://alloyui.com/) | [Github](http://github.com/liferay/alloy-ui) | [Twitter](http://twitter.com/alloyui)
+**Drupal** Drupal is a free software package that allows you to easily organize, manage and publish your content, with an endless variety of customization. &mdash; [Website](http://drupal.org/)
