@@ -5,7 +5,7 @@ class: talks
 description: List of all websites
 ---
 
-Here you can find all my sites that I havn't errased from time slides/videos and also know where you can find me in the future.
+Here you can find all my sites that I havn't errased from time 
 
 # Development - Works in Progress!
 
@@ -26,11 +26,12 @@ Here you can find all my sites that I havn't errased from time slides/videos and
 
 ## [Test site](http://test.rthur.me/)
 * local
-* Test Drupal install (routes from *.rthur.me)
+* Test Drupal install (routes from rthur.me)
+
+rthur. me (check dns)
+hover.com
 
 able  commerce_kickstart  cv       gov         intranet  members
 blog  cp                  drupal7  index.html  kenora    puphpet
-
-
 github (add github sites to list)
 
