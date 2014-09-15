@@ -14,7 +14,7 @@ layout: nil
     <id>http://blog.rthur.me{{ post.id }}</id>
     <title>{{ post.title | strip_html }}</title>
     <updated>{{ post.date | date_to_xmlschema }}</updated>
-    <link href="http://blog.rthur{{ post.url }}" />
+    <link href="http://blog.rthur.me{{ post.url }}" />
     <author>
       <name>Graeme Arthur</name>
       <uri>http://rthur.me/</uri>
