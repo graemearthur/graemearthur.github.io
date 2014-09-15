@@ -5,7 +5,7 @@ description: "Well They are aren't they?"
 language: "en"
 ---
 
-![Cover](/assets/img/posts/Scotland.jpg)
+![Cover](/assets/img/posts/scotland.jpg)
 
 WIP 
 <!-- more -->
