@@ -5,22 +5,22 @@ layout: nil
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://rthur.me/blog</id>
   <title>Blog - Graeme Arthur</title>
-  <icon>http://github.rthur.me/favicon.ico</icon>
-  <link href="http://zenorocha.com/feed/index.xml" rel="self" />
-  <link href="http://zenorocha.com/blog" />
+  <icon>http://blog.rthur.me/favicon.ico</icon>
+  <link href="http://blog.rthur.me/feed/index.xml" rel="self" />
+  <link href="http://blog.rthur.me/blog" />
   {% for post in site.posts limit:10 %}
   {% if post.layout == 'post' %}
   <entry>
-    <id>http://zenorocha.com{{ post.id }}</id>
+    <id>http://blog.rthur.me{{ post.id }}</id>
     <title>{{ post.title | strip_html }}</title>
     <updated>{{ post.date | date_to_xmlschema }}</updated>
-    <link href="http://zenorocha.com{{ post.url }}" />
+    <link href="http://blog.rthur{{ post.url }}" />
     <author>
-      <name>Zeno Rocha</name>
-      <uri>http://zenorocha.com/</uri>
+      <name>Graeme Arthur</name>
+      <uri>http://rthur.me/</uri>
     </author>
     <content type="html">
-      {{ post.content | replace: "src='/assets/", "src='http://zenorocha.com/assets/" | xml_escape }}
+      {{ post.content | replace: "src='/assets/", "src='http://blog.rthur.me/assets/" | xml_escape }}
     </content>
   </entry>
   {% endif %}
