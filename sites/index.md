@@ -27,37 +27,50 @@ Here you can find all my sites that I havn't errased from time
 rthur. me (check dns)
 hover.com
 
-able  commerce_kickstart  cv       gov         intranet  members
-blog  cp                  drupal7  index.html  kenora    puphpet
-github (add github sites to list)
+Localy Hosted Sites
+
+* able.rthur.me
+* cv.rthur.me
+* commerce_kickstart
+* gov.rthur.me
+* intranet.rthur.me
+* members.rthur.me
+* blog (not accessable from outside)
+* cp.rthur.me
+* drupal7.rthur.me
+* index.html (to be deleted)
+* kenora.rthur.me
+* puphpet (not working)
 
 http://stackoverflow.com/users/2911613/graeme-arthur
-asda
+cv.rthur.me/asda
+google plus page
 
-Your Github repositories 25
+# Github - Sites Hosted on Github go here!
 
-graemearthur.github.com
-graemearthur.old
-rsms.github.com
-webdesignerschecklist
-ShortcutMapper
-lfpr
-github-cheat-sheet
-QuMixDroid
-ui-calendar
-training.github.com
-demo-vagrant-puppet-drupal
-annual
-vagrant-drupal-7
-QuMixDroid_xamarin
-sathomas.github.com
-rogchap.github.com
-Startpage
-ken-guru.github.io
-vagrant-drupal
-elim
-quickstart-drupal
-gitlabhq
-reveal.js
-idiomatic-css
-OpenGovDC.com
+~All Github repositories
+
+* [Try](http://try.rthur.me/)
+* graemearthur.github.io repo is [blog.rthur.me](http://blog.rthur.me)
+* graemearthur.old
+* webdesignerschecklist
+* ShortcutMapper
+* lfpr
+* github-cheat-sheet
+* QuMixDroid
+* ui-calendar
+* demo-vagrant-puppet-drupal
+* annual
+* vagrant-drupal-7
+* QuMixDroid_xamarin
+* sathomas.github.com
+* rogchap.github.com
+* Startpage
+* ken-guru.github.io
+* vagrant-drupal
+* elim
+* quickstart-drupal
+* gitlabhq
+* reveal.js
+* idiomatic-css
+* OpenGovDC.com
