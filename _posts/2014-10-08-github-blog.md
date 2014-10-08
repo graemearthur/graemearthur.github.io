@@ -14,4 +14,4 @@ after starting this blog I figure it needs some content, its a bit light in that
 I think I should set some rules at the start, 
 1 post every day, small tweaks or fixes don't count as a *commit* for the day, 
 
-this post is inspired by (https://ryanseys.com/blog/177-days-of-github/)
+this post is inspired by [177 days of github](https://ryanseys.com/blog/177-days-of-github/)
