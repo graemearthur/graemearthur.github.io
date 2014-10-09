@@ -6,8 +6,7 @@ class: home
 Hi, I'm *Graeme*
 
 “Who are you?
-Are you in touch with all of your darkest fantasies?
-Have you created a life for yourself where you can experience them?
+Have you created a life for yourself where you can experience amazing things?
 I have. I am crazy.
 But I am free.” 
 
