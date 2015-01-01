@@ -19,3 +19,5 @@ this post is inspired by [177 days of github](https://ryanseys.com/blog/177-days
 & [Matt Cutts' Ted Talk](http://www.ted.com/talks/matt_cutts_try_something_new_for_30_days?language=en)
 
 ![Cover](/assets/img/posts/emma2.jpg)
+
+I love you, Emma x
