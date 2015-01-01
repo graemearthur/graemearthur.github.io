@@ -9,7 +9,7 @@ language: "en"
 
 So theres this girl who's stealing most of my time these days, she's amazing, love's Jesus and gets my sense of humour as well as bribes me with her baking. Emma you're amazing thanks for being in my life.
 <!-- more -->
-So I should say we've been up to a bunch and that's why I haven't had much of a chance to blog on here of late.
+So I should say we've been up to a bunch and that's why I haven't had much of a chance to blog on here of late,
 that said I'm looking for new 30 day challenges as I gave up last time I tried to write.
 
 I've also just agreed to write 26 letters to my girlfriend this month as she thinks it's a "cute idea" :)
