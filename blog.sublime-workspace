@@ -8,12 +8,51 @@
 	"buffers":
 	[
 		{
+			"contents": "",
 			"file": "/home/graeme/Dropbox/2014-10-10-wip.md",
+			"file_size": -1,
+			"file_write_time": -1,
 			"settings":
 			{
-				"buffer_size": 1148,
+				"buffer_size": 0,
 				"line_ending": "Unix",
 				"name": "Pro king vs Pro Mike Ashley - a fair and balanced"
+			}
+		},
+		{
+			"contents": "---\nlayout: post\ntitle: \"Archives\"\ndescription: \"Working on your archives is an important task.\"\nlanguage: \"en\"\n---\n\n![Cover](/assets/img/posts/archives.jpg)\n\n*Working on your archives is an important task.*\n\nthe unseen work of planning, drafting and redrafting are important and where I'm aiming to spend a significant portion of my time when it comes to blogging, writing etc especially over these next 30 days.\n\n<!-- more -->\n\n*designing a plan for how to post*\n\nhaving a step by step process that you follow enables it not to just become a routine but also ensures you don't miss an important step that could cost you traffic or quality in the longer term.\n\nI don't want to just fall into a rut of daily posts hoping that someday soon something will change. I love the feeling of grabbing an opportunity with both hands and doing something amazing. Something worth talking about.\n\n\n![Cover](/assets/img/posts/building-blog-plan.png)\n\nhere are some of the steps I'll be working on:\n\n* Promotion: google plus & twitter, how to promote on each one.\n* archive refinement: improving an old article.\n* Topic Selection: brainstorming and\n* Post Planning: in terms of timing, writing before it's needed\n* Draft Post Refinement: Definitely a section I'll be looking at heavily, how to improve a draft I've already made.\n* headline creation: creating grabbing headlines. ",
+			"file": "_posts/2014-10-10-wip.md",
+			"file_size": -1,
+			"file_write_time": -1,
+			"settings":
+			{
+				"buffer_size": 1365,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_posts/2014-10-11-KingVAshley.md",
+			"settings":
+			{
+				"buffer_size": 3056,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "1897\n\n0x769\n4985\n",
+			"settings":
+			{
+				"buffer_size": 17,
+				"line_ending": "Unix",
+				"name": "1897"
+			}
+		},
+		{
+			"file": "_posts/2014-09-13-why-I-created-this-site.md",
+			"settings":
+			{
+				"buffer_size": 2091,
+				"line_ending": "Unix"
 			}
 		}
 	],
@@ -49,6 +88,10 @@
 	],
 	"file_history":
 	[
+		"/home/graeme/Projects/graemearthur.github.io/_posts/2015-01-02-googlemusic.md",
+		"/home/graeme/Projects/graemearthur.github.io/_posts/2015-01-02-.md",
+		"/home/graeme/.gconf/apps/nautilus/preferences/%gconf.xml",
+		"/home/graeme/.gconf/apps/nautilus/%gconf.xml",
 		"/home/graeme/Projects/graemearthur.github.io/_posts/2014-10-09-archives.md",
 		"/home/graeme/Projects/graemearthur.github.io/blog.sublime-project",
 		"/home/graeme/Dropbox/openatrium-7.x-2.19/profiles/openatrium/openatrium.png",
@@ -76,7 +119,7 @@
 	],
 	"find":
 	{
-		"height": 35.0
+		"height": 25.0
 	},
 	"find_in_files":
 	{
@@ -90,13 +133,17 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"king",
+			"ashley"
 		],
-		"highlight": true,
+		"highlight": false,
 		"in_selection": false,
 		"preserve_case": false,
 		"regex": false,
 		"replace_history":
 		[
+			"King",
+			"Ashley"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -107,7 +154,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 3,
 			"sheets":
 			[
 				{
@@ -116,27 +163,141 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1148,
+						"buffer_size": 0,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								522,
-								522
+								0,
+								0
 							]
 						],
 						"settings":
 						{
 							"auto_name": "Pro king vs Pro Mike Ashley - a fair and balanced",
+							"spell_check": true,
 							"syntax": "Packages/Markdown/Markdown.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_posts/2014-10-10-wip.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1365,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "_posts/2014-10-11-KingVAshley.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3056,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2533,
+								2533
+							]
+						],
+						"settings":
+						{
+							"spell_check": true,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 255.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 17,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								17,
+								17
+							]
+						],
+						"settings":
+						{
+							"auto_name": "1897",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
 					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "_posts/2014-09-13-why-I-created-this-site.md",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 2091,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
