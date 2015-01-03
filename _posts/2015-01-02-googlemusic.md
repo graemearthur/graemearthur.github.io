@@ -29,6 +29,7 @@ the solution, do a little bit every day.
 
 
 Now I fix 5 albums in Google music every day. it's easy to do, makes me happy and my collection is slowly becoming tamed :-)
+
 a "fix" can be as little as adding artwork or removing numbers from the track names to uploading and checking new album I've recently got, or listening to some unnamed ones to find out what they are. it doesn't take long and I feel like I've accomplished something.
 
 I've added to this my feeds that i read everyday, I review 5 of them to see if they are still relevant to me and producing quality content, if not they go.
