@@ -10,6 +10,7 @@ language: "en"
 ## "every day I ... "
 My struggle and failure to find a todo app, and how I freakishly found a solution because of my desire for getting things just so, combined with my laziness 
 <!-- more -->
+
 after trying every todo list app on the planet, and reminiscing about my paper diary days
 a 4 or 5 month's ago I switched over to a daily paper todo list just for the things I want to accomplish that day.
 
