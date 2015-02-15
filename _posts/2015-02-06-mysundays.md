@@ -7,7 +7,7 @@ language: "en"
 
 ![Cover](/assets/img/posts/production.jpg)
 
-## "Graeme's Road to Sunday"
+# "Graeme's Road to Sunday"
 or Life of a small church production Volunteer: 
 
 Fellow Church Production people, How do you go about preparing for a Sunday morning at church? I'm always fascinated by other churches practice's and ways they get prepared production wise.
@@ -21,7 +21,7 @@ Most of my role involves Audio only, however I'll play around with some of the f
 
 We are pretty loosey goosey when it comes to planning, we don't really do a huge amount of forward thinking as me and the rest of the production team all have full time jobs elsewhere.
 
-#Sunday
+##Sunday
 Sunday involves getting there at 830 or 900, usually this is prearranged sometimes just a text message the night before what time but sometimes I'll arrive a bit earlier just to keep on top of things.
 Band arrive at 9/915 so there's not much prep time for us, that said there's not much for us to do, as things are usually setup from practice, unless there is an event or two in between.
 
@@ -45,22 +45,22 @@ Other than that we'll usually talk through the latest project we are attempting,
 #Monday
 Hopefully the worship leader sends out an email, with song lists, music, band info from the rota (we try to use worshipteam.com but nobody who uses it really likes it) it's assumed I'll cover music practice unless I let people know, I'll try to let them know on the Monday if I can't make it.
 
-#Tuesday
+##Tuesday
 
 Music Practice
 Music practice, a great time to train volunteers, and well to get things setup for Sunday,
 
-Wednesday
+##Wednesday
 Home group - Several members of the band are in a small group with me that meet most Wednesday eve's and this is not an official worship team meeting or anything, usually we end up talking something, depending on who's on the rota for that week and who could make practice etc. if there's no worship team talk then it's great just to hang out with these Godly guys n gals.
 
 
-Thursday
+##Thursday
 Tends to be my Date Night :-) my favorite Night of the week although that has nothing to do with Production, thought I'd sneak it in here.
 
-Friday
+##Friday
 off
 
-Sat
+##Sat
 Off / Conference / Event
 
 Special event's tend to arrive on a Saturday, and yeah there's a whole bunch. keeps us busy. :-)
