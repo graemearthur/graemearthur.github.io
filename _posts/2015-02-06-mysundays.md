@@ -8,7 +8,7 @@ language: "en"
 ![Cover](/assets/img/posts/production.jpg)
 
 # "Graeme's Road to Sunday"
-or Life of a small church production Volunteer: 
+## or Life of a small church production Volunteer: 
 
 Fellow Church Production people, How do you go about preparing for a Sunday morning at church? I'm always fascinated by other churches practice's and ways they get prepared production wise.
 I devour articles and random interviews I come across to see how others prepare and I have a tendency to imagine how I'd like to organise our Church if I could.
@@ -42,7 +42,7 @@ During sound check we will all try to listen, and make a trip downstairs from th
 
 Other than that we'll usually talk through the latest project we are attempting, be that reinstalling the os on the iMac or buying a new light or planning an upcoming event (I must confess to talking this during the service too)
 
-#Monday
+##Monday
 Hopefully the worship leader sends out an email, with song lists, music, band info from the rota (we try to use worshipteam.com but nobody who uses it really likes it) it's assumed I'll cover music practice unless I let people know, I'll try to let them know on the Monday if I can't make it.
 
 ##Tuesday
