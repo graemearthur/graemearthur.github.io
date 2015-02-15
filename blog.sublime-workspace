@@ -9,49 +9,17 @@
 	[
 		{
 			"contents": "",
-			"file": "/home/graeme/Dropbox/2014-10-10-wip.md",
-			"file_size": -1,
-			"file_write_time": -1,
 			"settings":
 			{
 				"buffer_size": 0,
-				"line_ending": "Unix",
-				"name": "Pro king vs Pro Mike Ashley - a fair and balanced"
-			}
-		},
-		{
-			"contents": "---\nlayout: post\ntitle: \"Archives\"\ndescription: \"Working on your archives is an important task.\"\nlanguage: \"en\"\n---\n\n![Cover](/assets/img/posts/archives.jpg)\n\n*Working on your archives is an important task.*\n\nthe unseen work of planning, drafting and redrafting are important and where I'm aiming to spend a significant portion of my time when it comes to blogging, writing etc especially over these next 30 days.\n\n<!-- more -->\n\n*designing a plan for how to post*\n\nhaving a step by step process that you follow enables it not to just become a routine but also ensures you don't miss an important step that could cost you traffic or quality in the longer term.\n\nI don't want to just fall into a rut of daily posts hoping that someday soon something will change. I love the feeling of grabbing an opportunity with both hands and doing something amazing. Something worth talking about.\n\n\n![Cover](/assets/img/posts/building-blog-plan.png)\n\nhere are some of the steps I'll be working on:\n\n* Promotion: google plus & twitter, how to promote on each one.\n* archive refinement: improving an old article.\n* Topic Selection: brainstorming and\n* Post Planning: in terms of timing, writing before it's needed\n* Draft Post Refinement: Definitely a section I'll be looking at heavily, how to improve a draft I've already made.\n* headline creation: creating grabbing headlines. ",
-			"file": "_posts/2014-10-10-wip.md",
-			"file_size": -1,
-			"file_write_time": -1,
-			"settings":
-			{
-				"buffer_size": 1365,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "_posts/2014-10-11-KingVAshley.md",
+			"contents": "",
 			"settings":
 			{
-				"buffer_size": 3056,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"contents": "1897\n\n0x769\n4985\n",
-			"settings":
-			{
-				"buffer_size": 17,
-				"line_ending": "Unix",
-				"name": "1897"
-			}
-		},
-		{
-			"file": "_posts/2014-09-13-why-I-created-this-site.md",
-			"settings":
-			{
-				"buffer_size": 2091,
+				"buffer_size": 0,
 				"line_ending": "Unix"
 			}
 		}
@@ -59,17 +27,30 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 0.0,
+		"height": 75.0,
 		"selected_items":
 		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			]
 		],
-		"width": 0.0
+		"width": 449.0
 	},
 	"console":
 	{
-		"height": 0.0,
+		"height": 139.0,
 		"history":
 		[
+			"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
 		]
 	},
 	"distraction_free":
@@ -89,6 +70,12 @@
 	"file_history":
 	[
 		"/home/graeme/Projects/graemearthur.github.io/_posts/2015-01-02-googlemusic.md",
+		"/home/graeme/Projects/graemearthur.github.io/_posts/2014-10-11-KingVAshley.md",
+		"/home/graeme/Projects/graemearthur.github.io/_posts/2014-10-10-wip.md",
+		"/home/graeme/Dropbox/2014-10-10-wip.md",
+		"/run/user/1000/gvfs/sftp:host=drupal/var/www/gov/config/config.php",
+		"/run/user/1000/gvfs/sftp:host=drupal/var/www/gov/Web/Services/Authentication/show-captcha.php",
+		"/run/user/1000/gvfs/sftp:host=drupal/var/www/gov/config/config.dist.php",
 		"/home/graeme/Projects/graemearthur.github.io/_posts/2015-01-02-.md",
 		"/home/graeme/.gconf/apps/nautilus/preferences/%gconf.xml",
 		"/home/graeme/.gconf/apps/nautilus/%gconf.xml",
@@ -133,6 +120,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"admin",
+			"password",
 			"king",
 			"ashley"
 		],
@@ -154,12 +143,11 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/home/graeme/Dropbox/2014-10-10-wip.md",
 					"semi_transient": false,
 					"settings":
 					{
@@ -176,24 +164,28 @@
 						],
 						"settings":
 						{
-							"auto_name": "Pro king vs Pro Mike Ashley - a fair and balanced",
-							"spell_check": true,
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+							"auto_name": "",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 1,
 					"type": "text"
-				},
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
 				{
 					"buffer": 1,
-					"file": "_posts/2014-10-10-wip.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1365,
+						"buffer_size": 0,
 						"regions":
 						{
 						},
@@ -206,63 +198,7 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "_posts/2014-10-11-KingVAshley.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3056,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2533,
-								2533
-							]
-						],
-						"settings":
-						{
-							"spell_check": true,
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 255.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 17,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								17,
-								17
-							]
-						],
-						"settings":
-						{
-							"auto_name": "1897",
+							"auto_name": "",
 							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
@@ -270,34 +206,6 @@
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "_posts/2014-09-13-why-I-created-this-site.md",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 2091,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
 					"type": "text"
 				}
 			]
@@ -320,11 +228,18 @@
 				0,
 				1,
 				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
 			]
 		],
 		"cols":
 		[
 			0.0,
+			0.5,
 			1.0
 		],
 		"rows":
@@ -368,14 +283,14 @@
 		],
 		"width": 0.0
 	},
-	"selected_group": 0,
+	"selected_group": 1,
 	"settings":
 	{
 	},
 	"show_minimap": true,
 	"show_open_files": false,
 	"show_tabs": true,
-	"side_bar_visible": true,
+	"side_bar_visible": false,
 	"side_bar_width": 319.0,
 	"status_bar_visible": true,
 	"template_settings":
