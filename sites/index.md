@@ -17,7 +17,7 @@ Here you can find all my sites that I havn't errased from time (not including cl
 ## [My Jenkins Build Server](http://jenkins.rthur.me/)
 * local
 
-## [Private-ish Git Server](http://git.rthur.me/)
+## [Private-ish Git Server](http://git.rthur.me/users/sign_in)
 * local
 
 ## [Test site](http://test.rthur.me/)

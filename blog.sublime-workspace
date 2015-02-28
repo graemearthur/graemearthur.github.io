@@ -14,14 +14,6 @@
 				"buffer_size": 0,
 				"line_ending": "Unix"
 			}
-		},
-		{
-			"contents": "",
-			"settings":
-			{
-				"buffer_size": 0,
-				"line_ending": "Unix"
-			}
 		}
 	],
 	"build_system": "",
@@ -69,6 +61,7 @@
 	],
 	"file_history":
 	[
+		"/home/graeme/Projects/graemearthur.github.io/sites/index.md",
 		"/home/graeme/Projects/graemearthur.github.io/_posts/2015-02-06-mysundays.md",
 		"/home/graeme/Projects/graemearthur.github.io/_posts/2015-01-02-googlemusic.md",
 		"/home/graeme/Projects/graemearthur.github.io/_posts/2014-10-11-KingVAshley.md",
@@ -144,37 +137,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"auto_name": "",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				}
 			]
 		},
 		{
@@ -182,7 +146,7 @@
 			"sheets":
 			[
 				{
-					"buffer": 1,
+					"buffer": 0,
 					"semi_transient": false,
 					"settings":
 					{
@@ -284,7 +248,7 @@
 		],
 		"width": 0.0
 	},
-	"selected_group": 1,
+	"selected_group": 0,
 	"settings":
 	{
 	},
