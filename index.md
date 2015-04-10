@@ -5,12 +5,8 @@ class: home
 
 Hi, I'm *Graeme*
 
-“Who are you?
+Who are you?
 Have you created a life for yourself where you can experience amazing things?
-I have. I am crazy.
-But I am free.” 
-
-I'm unique, I mean well, but usualy manage to do the wrong thing. I have a real talent for it.” 
 
 I love <a rel="footnote" href="#fn:1">drupal</a>[^1],
 I love Rangers and play with most of the new technology I can get my hands on.
