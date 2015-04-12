@@ -1,6 +1,6 @@
-# [zenorocha.com](http://zenorocha.com)
+# [blog.rthur.me](http://blog.rthur.me)
 
-My personal website where I talk about front-end development like HTML5, CSS3 and JavaScript.
+My personal website where I talk about random stuff.
 
 ## How it works?
 
@@ -91,10 +91,6 @@ It stores most of the settings of the application.
 It's the file responsible for all application sections.
 
 *More information about Jekyll's file structure [here](https://github.com/mojombo/jekyll/wiki/Usage).*
-
-## Credits
-
-Inspired by Andy Taylor.
 
 ## License
 
