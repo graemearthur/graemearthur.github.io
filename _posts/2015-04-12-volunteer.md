@@ -7,9 +7,9 @@ language: "en"
 
 ![Cover](/assets/img/posts/vol.jpg)
 ## Benifits of volunteering
-There are many benifits to volunteering,So what’s the story with volunteering anyway, working for free? Why would you bother? there are many oppurtunities at elim church crawley, join the welcome team, production team, web team, Refreshment team
+There are many benifits to volunteering, So what’s the story with volunteering anyway, working for free? Why would you bother? there are many oppurtunities at elim church crawley, join the welcome team, production team, web team, Refreshment team
 
-# but why?
+### but why?
 <!-- more -->
 
 Doing voluntary work can be a learning experience; you can develop new skills, gain knowledge, meet new people and learn about your local community.
