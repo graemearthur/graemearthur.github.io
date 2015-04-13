@@ -23,7 +23,7 @@ We are pretty loosey goosey when it comes to planning, we don't really do a huge
 
 ##Sunday
 Sunday involves getting there at 830 or 900, usually this is prearranged sometimes just a text message the night before what time but sometimes I'll arrive a bit earlier just to keep on top of things.
-Band arrive at 9/915 so there's not much prep time for us, that said there's not much for us to do, as things are usually setup from practice, unless there is an event or two in between.
+Band arrive at 9/915 so there's not that much prep time for us, that said there's not much for us to do, as things are usually setup from practice, unless there is an event or two in between.
 
 A quick tidy up and double check of the patching is all that is required most weeks, pretty strait forward
 (see attached the sheet we patch from, it's really volunteer friendly)
