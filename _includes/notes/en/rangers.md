@@ -1,0 +1,1 @@
+**Rangers** are a Scottish football team called Glasgow Rangers, the most successful club in Britain &mdash; [Website](http://rangers.co.uk/) | [Wiki](http://en.wikipedia.org/wiki/Rangers_F.C.)
