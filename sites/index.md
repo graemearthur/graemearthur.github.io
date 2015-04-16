@@ -7,18 +7,13 @@ description: List of all websites
 
 Here you can find all my sites that I havn't errased from time (not including client sites, those that can will be published under projects)
 
-# Development - Works in Progress!
-
-* WIP sites go here
 
 # ~ Frequently used Sites
 ---
 
 ## [My Jenkins Build Server](http://jenkins.rthur.me/)
-* local
 
 ## [Private-ish Git Server](http://git.rthur.me/users/sign_in)
-* local
 
 ## [Test site](http://test.rthur.me/)
 * local
