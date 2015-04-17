@@ -17,7 +17,8 @@ Doing voluntary work can be a learning experience; you can develop new skills, g
 Volunteering provides huge opportunities to develop further and is highly recognised by employers. 
 Some other beneficial reasons to do charity work:
 
-I personaly love to do it because I get to actually do work that is inspiring, rewarding and useful in my spare time, work that your proud of it
+I personaly love to do it because I get to actually do work that is inspiring, rewarding and useful in my spare time, work that I proud off.
+
 Learn new skills and enhance your CV. Yes you can do all these too.
 
 Make a difference to the people you are volunteering with and give back to the community
