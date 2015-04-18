@@ -47,27 +47,4 @@ G+ profile
 
 ~All Github repositories
 
-* [Try](http://try.rthur.me/)
-* graemearthur.github.io repo is [blog.rthur.me](http://blog.rthur.me)
-* graemearthur.old
-* webdesignerschecklist
-* ShortcutMapper
-* lfpr
-* github-cheat-sheet
-* QuMixDroid
-* ui-calendar
-* demo-vagrant-puppet-drupal
-* annual
-* vagrant-drupal-7
-* QuMixDroid_xamarin
-* sathomas.github.com
-* rogchap.github.com
-* Startpage
-* ken-guru.github.io
-* vagrant-drupal
-* elim
-* quickstart-drupal
-* gitlabhq
-* reveal.js
-* idiomatic-css
-* OpenGovDC.com
+
