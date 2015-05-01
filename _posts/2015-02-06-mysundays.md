@@ -8,6 +8,7 @@ language: "en"
 ![Cover](/assets/img/posts/production.jpg)
 
 # "Graeme's Road to Sunday"
+
 ## or Life of a small church production Volunteer: 
 
 Fellow Church Production people, How do you go about preparing for a Sunday morning at church? I'm always fascinated by other churches practice's and ways they get prepared production wise.
