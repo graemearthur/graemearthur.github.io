@@ -25,7 +25,7 @@ I use [Jekyll](http://jekyllrb.com/), a static generator in Ruby, to create this
 4. Navigate to the project folder:
 
   ```sh
-  $ cd zenorocha.com
+  $ cd rthur.me
   ```
 
 5. And finally run:
