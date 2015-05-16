@@ -19,13 +19,13 @@ I use [Jekyll](http://jekyllrb.com/), a static generator in Ruby, to create this
 3. Now clone the project:
 
   ```sh
-  $ git clone git@github.com:zenorocha/zenorocha.com.git
+  $ git clone git@github.com:graemearthur/graemearthur.github.io.git
   ```
 
 4. Navigate to the project folder:
 
   ```sh
-  $ cd rthur.me
+  $ cd graemearthur.github.io
   ```
 
 5. And finally run:
