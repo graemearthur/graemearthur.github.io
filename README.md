@@ -91,7 +91,3 @@ It stores most of the settings of the application.
 It's the file responsible for all application sections.
 
 *More information about Jekyll's file structure [here](https://github.com/mojombo/jekyll/wiki/Usage).*
-
-## License
-
-[MIT License](http://zenorocha.mit-license.org/) © Zeno Rocha
