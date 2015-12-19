@@ -7,8 +7,7 @@ language: "en"
 
 ![Cover](/assets/img/posts/churchsound.jpg)
 
-## 14 things I've learned in
-14 years of church Sound
+## 14 things from 14 years of church Sound
 
 
 1) it's never just a couple of mics
