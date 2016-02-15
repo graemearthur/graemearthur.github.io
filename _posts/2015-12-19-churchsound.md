@@ -9,6 +9,7 @@ language: "en"
 
 ## 14 things from 14 years of church Sound
 
+in no particular order.
 
 1) it's never just a couple of mics
 
@@ -17,22 +18,22 @@ Talk through whoever it is planning their event, even if the requirements are sm
 
 2) Love thy team / build a team
 
-Yes YOU have to love your team, if you are doing it solo, get some support in building one, even if it's just one extra person.
-If you want to be able to take holiday's and not stress you'll need someone else who has your back. a small team is still a team.
+Yes YOU have to love your team, if you are doing it solo, get some support in building a team, even if it's just one extra person.
+If you want to be able to take holiday's and not stress you'll need someone else who has your back. A small team is still a team.
 
 3) no one will care as much as you
 
-Yes keep coiling those cables properly, other people don't have to use them as they aren't in as early as you and no they won't be as commited as you. so YOU take the time to get them "just right"
-keeping things where they should go. I know you care and I know it's hard work but people do appriciate, I know Jesus does even if other people don't always seem to.
+Yes keep coiling those cables properly. Other people, even other people on your team won't always care as much as you. Most aren't in as early as you and no they won't be as committed as you. so YOU take the time to get them "just right"
+keeping things where they should go. I know you care and I know it's hard work but people do appreciate(especially your future self when you come to use it), I know Jesus does even if other people don't always seem to. 
 
 4) its all about the relationships.
 
 Invest in the relationships, not just in your team but with Worship Leaders, Worship Pastor & Senior Leadership. The pay off will be worth it in the long run.
 
-5) buy less gear but buy the good stuff (&the right stuff).
+5) buy less gear but buy the good stuff (& the right stuff for your venue).
 
-buy portable gear for portable, build a flexiable system for installs
-Part of preperation really, work out what you need and then get it. even if it means limping along with what you have for a while longer. Once you have equipment that works well you'll appriciate it and others will likely see or hear the benifits and gain you trust as you produce more realiable  
+buy portable gear for portable, build a flexible system for installs
+Part of preparation really, work out what you need and then get it. even if it means limping along with what you have for a while longer. Once you have equipment that works well you'll appreciate it and others will likely see or hear the benefits and gain you trust as you produce more reliable  
 
 6) Pray -
 
@@ -40,7 +41,7 @@ Things change when you pray, Pray for support, pray for your pastor, pray for yo
 
 7) You need support from your senior leadership
 
-I know you arrive early, leave later than anyone else and sometimes it can feel like your the keeper of the church as youre there enough and it's great that you feel ownership. Make sure you have support of the leadership. You need that cover from "aunt mildred" who just simply thinks its too loud (when what she probably means is she doesn't like the drums) 
+I know you arrive early, leave later than anyone else and sometimes it can feel like your the keeper of the church as you're there enough and it's great that you feel ownership. Make sure you have support of the leadership. You need that cover from "aunt Mildred" who just simply thinks its too loud (when what she probably means is she doesn't like the drums) 
 
 8) arrive early
 
@@ -58,16 +59,16 @@ Yes we know you feel like quiting some weeks, for some it feels like that every 
 
 use your ears. Listen to how it sounds and make it better
 
-12) Work with what you have (band and gear) "excelence" "be excelent"
+12) Work with what you have (band and gear) "excellence" "be excellent"
 
 Know thy gear
-be thankfull
+be thankful
 
 13) **keep it tidy as much as possible.**
 
 Keep things tidy as much as possible, I know the place is to get used but keep things tidy as much as you can and encourage your team and others to keep the building and your production areas tidy as well.
 
-14) **Victory Love's preperation**
+14) **Victory Love's preparation**
 
 Prepare, Prepare, Prepare. Plan everything you possibly can.
 and make sure everybody knows what you are up to before the day.
