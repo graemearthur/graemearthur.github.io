@@ -49,4 +49,4 @@ kramdown:
     coderay_css: style
 
 excerpt_separator: "<!-- more -->"
-plugins: [jekyll-paginate]
+plugins: [jekyll-paginate, jekyll-archives]
