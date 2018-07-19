@@ -41,3 +41,6 @@ kramdown:
   enable_coderay: false
 
 excerpt_separator: "<!-- more -->"
+root: /
+baseurl: /
+url: http://blog.rthur.me
