@@ -1,6 +1,6 @@
 safe:        false
-baseurl:     /
-url: http://localhost:4000
+baseurl:     ""
+url: http://blog.rthur.me
 
 name: Graeme Arthur
 description:  Random hard worker who lives and works in the UK
@@ -42,5 +42,3 @@ kramdown:
 
 excerpt_separator: "<!-- more -->"
 root: /
-baseurl: ""
-url: http://blog.rthur.me
