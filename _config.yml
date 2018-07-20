@@ -42,5 +42,5 @@ kramdown:
 
 excerpt_separator: "<!-- more -->"
 root: /
-baseurl: /
+baseurl: ""
 url: http://blog.rthur.me
