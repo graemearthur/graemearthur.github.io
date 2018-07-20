@@ -1,5 +1,5 @@
 safe:        false
-baseurl:     ""
+baseurl:     "http://blog.rthur.me/"
 url: http://blog.rthur.me
 
 name: Graeme Arthur
