@@ -5,7 +5,7 @@ layout: null
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://rthur.me/blog</id>
   <title>Blog - Graeme Arthur</title>
-  <icon>http://blog.rthur.me/favicon.ico</icon>
+  <icon>http://blog.rthur.me/assets/favicon.ico</icon>
   <link href="http://blog.rthur.me/feed/index.xml" rel="self" />
   <link href="http://blog.rthur.me/blog" />
   {% for post in site.posts limit:10 %}
